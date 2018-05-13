@@ -6,20 +6,20 @@ body {
   margin: 0;
   padding: 0;
   list-style-type: none;
-  height: 80px;
-  max-width: 1600px;
-  margin-left: 165.5px;
-  margin-right: 165.5px;
-  margin-top: 20px;
+  height: 4.16%;
+  max-width: 83.3%;
+  margin-left: 8.61%;
+  margin-right: 8.61%;
+  margin-top: 1.04%;
   margin-bottom: 0px;
   padding: 0px;
 }
 
 #navicontainer ul li {
   display: inline;
-  padding-left: 2;
-  font-weight: 400;
-  padding-right: 50px;
+  padding-left: 0.1%;
+  font-weight: 20.83%;
+  padding-right: 2.6%;
 }
 
 #navicontainer li.icon {
@@ -32,7 +32,7 @@ body {
 #navicontainer li.icons {
   padding: 0px;
   display: inline;
-  margin-left: 1440px;
+  margin-left: 75%;
   color: gray;
   font-size: 15px;
 }
@@ -51,8 +51,8 @@ li a:hover {
 
 #center {
   text-align: right;
-  margin-top: 100px;
-  margin-right: 400px;
+  margin-top: 5.2%;
+  margin-right: 20.83%;
   width: 100%;
   display: flex;
 }
@@ -60,20 +60,19 @@ li a:hover {
 #text {
   text-align: left;
   font-size: 32px;
-  transform: translateX(80px);
-    margin-left: 500px;
-    margin-top: 150px;
+    margin-left: 26.04%;
+    margin-top: 7.81%;
 }
 
 #pro {
-    margin-left: 700px;
+    margin-left: 36.45%;
     font-size: 30px;
-    padding-right: 100px;
+    padding-right: 5.2%;
     text-align: left;
     color: #fff;
-    padding-bottom: 22px;
-    margin-right: 700px;
-    padding-top: 330px;
+    padding-bottom: 1.14%;
+    margin-right: 36.45%;
+    padding-top: 17.18%;
 }
 
 #con {
@@ -87,7 +86,7 @@ li a:hover {
 }
 
 #footer {
-    margin-left: 1500px;
+    margin-left: 78.12%;
 }
 
 #race {
@@ -107,7 +106,7 @@ body{margin:0}
 
 .button {
   display: inline-block;
-  border-radius: 4px;
+  border-radius: 0.2%;
   background-color: #160B47;
   border: none;
   color: #FFFFFF;
@@ -117,7 +116,7 @@ body{margin:0}
   width: 200px;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 5px;
+  margin: 0.26%;
 }
 
 .button span {
@@ -248,73 +247,3 @@ input:focus:-ms-input-placeholder
     a:visited {text-decoration: none}
     a:active {text-decoration: none}
     a:hover {text-decoration: underline}
-
-
-
-@media only screen and (max-width: 1280px) {
-    #navicontainer ul {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  height: 40px;
-  max-width: 1200px;
-  margin-left: 100px;
-  margin-right: 0px;
-  margin-top: 20px;
-  margin-bottom: 0px;
-  padding: 0px;
-}
-
-    #navicontainer ul li {
-  display: inline;
-  padding-left: 2;
-  font-weight: 400;
-  padding-right: 50px;
-}
-
-#navicontainer li.icon {
-  padding: 0px;
-  display: inline;
-  color: gray;
-  font-size: 15px;
-}
-
-#navicontainer li.icons {
-  padding: 0px;
-  display: inline;
-  margin-left: 1000px;
-  color: gray;
-  font-size: 15px;
-}
-
-    #center {
-  text-align: right;
-  margin-top: 100px;
-  margin-right: 100px;
-  width: 100%;
-  display: flex;
-}
-
-#text {
-  text-align: left;
-  font-size: 32px;
-  transform: translateX(80px);
-    margin-left: 200px;
-    margin-top: 150px;
-}
-
-    #pro {
-    margin-left: 400px;
-    font-size: 30px;
-    padding-right: 100px;
-    text-align: left;
-    color: #fff;
-    padding-bottom: 22px;
-    margin-right: 350px;
-    padding-top: 170px;
-}
-
-    #footer {
-    margin-left: 1100px;
-}
-}
